@@ -3,6 +3,7 @@
 db.sqlite3
 ebooks/__pycache__
 ebooks/migrations/__pycache__
+ebooks/migrations//__init__.py
 ebooks/__init__.py
 ebook_api/ebook_api/__pycache__
 ebook_api/ebook_api/__init__.py
